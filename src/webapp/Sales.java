@@ -10,4 +10,7 @@ public class Sales {
     //..
 
     //..
+
+    // More sales items //
+
 }
